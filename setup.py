@@ -20,7 +20,7 @@ required = [
 ]
 
 setup(
-    name='django-postgrespool',
+    name='django-postgrespool-lab',
     version='0.3.0',
     description='Postgres Connection Pooling for Django.',
     long_description=open('README.rst').read(),
